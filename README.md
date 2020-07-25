@@ -1,2 +1,2 @@
 # Cloud_Computing_Notes
-A notes from a Cloud Computing Class.
+A complete note from a Cloud Computing Class.
